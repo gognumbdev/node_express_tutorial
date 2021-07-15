@@ -1,0 +1,4 @@
+Old text !
+Here is the result Hello this is the first text file !!!
+ , This is the second text file !Here is the result Hello this is the first text file !!!
+ , This is the second text file !
